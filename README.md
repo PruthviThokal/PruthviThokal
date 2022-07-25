@@ -1,12 +1,12 @@
 <h1 align="center">
-  <img src="https://github.com/swaraj54/swaraj54/blob/main/name.svg" alt="Swaraj Jadhav" />
+  <img src="https://github.com/PruthviThokal/PruthviThokal/blob/main/name.svg" alt="Pruthviraj Thokal" />
 </h1>
 
 <h2>Hi There <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
-### I'm a **Full Stack Web Developer**. I am from Solapur, Maharashtra and currently working at Cointab Company. I love to explore and learn new technologies. I always had a fondness for technology and coding. I started my journey with C, C++ and then I learned JS, HTML, CSS, Express, React and many other web development technologies. I'm open to collaborate on interesting projects.
+### I'm a **Full Stack Web Developer**. I am from Mumbai, Maharashtra and currently working at Cointab Software PVT. LTD. I love to explore and learn new technologies. I always had a fondness for technology and coding. I started my journey with C, C++ and then I learned JS, HTML, CSS, Express, React and many other web development technologies. I'm open to collaborate on interesting projects.
 
-#### 📄 [Resume](https://drive.google.com/file/d/1bIN9HBQxcvXLHl5-Trb5zEBP3pxCe_U7/view)
+#### 📄 [Resume](https://drive.google.com/file/d/1XIVdmzzdguMbEPak2YONN1xFgZRzb6FI/view?usp=sharing)
 
 ## Skill Set :muscle:
 
@@ -14,15 +14,14 @@
 
 ## Let's Connect :handshake:
 
-<img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="30">|<h3><a href="https://www.linkedin.com/in/swarajjadhav/">swaraj-dnyaneshwar-jadhav</a></h3>
+<img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="30">|<h3><a href="https://www.linkedin.com/in/pruthviraj-thokal-6551091b5">Pruthviraj Suryakant Thokal</a></h3>
 |--|--|
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="30">|<h3>jadhavswaraj1920@gmail.com</h3>
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="30">|<h3>thokalpruthviraj99@gmail.com</h3>
 
 ## My Projects
 
-### [CultFit Clone](https://masaicult.herokuapp.com/)
+### [SMS Sending APP](https://sms-sender-kisan-nw.netlify.app/)
 
-### [Strawberrynet Clone](https://strawberrynet.vercel.app/)
 
 ## Some of my stats :bar_chart:
 
