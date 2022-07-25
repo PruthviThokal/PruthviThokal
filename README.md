@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/swaraj54/swaraj54/main/name.svg" alt="Pruthviraj Thokal" />
+  <img src="https://github.com/PruthviThokal/PruthviThokal/blob/main/name.svg" alt="Pruthviraj Thokal" />
 </h1>
 
 <h2>Hi There <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
