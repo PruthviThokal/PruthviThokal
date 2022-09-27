@@ -6,7 +6,7 @@
 
 ### I'm a **Full Stack Web Developer**. I am from Mumbai, Maharashtra and currently working at Cointab Software PVT. LTD. I love to explore and learn new technologies. I always had a fondness for technology and coding. I started my journey with C, C++ and then I learned JS, HTML, CSS, Express, React and many other web development technologies. I'm open to collaborate on interesting projects.
 
-#### 📄 [Resume](https://drive.google.com/file/d/1XIVdmzzdguMbEPak2YONN1xFgZRzb6FI/view?usp=sharing)
+#### 📄 [Resume](https://drive.google.com/file/d/1hlRmg76HJ51fEl2YODtcLd51o2INPPqO/view?usp=sharing)
 
 ## Skill Set :muscle:
 
